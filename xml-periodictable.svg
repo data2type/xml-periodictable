@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="-100 -110 2432 1222" width="100%">
+    viewBox="-100 -120 2432 1188" width="100%">
     <title>XML periodic table</title>
     <g id="title">
         <text x="820" y="45">XML periodic table</text>
@@ -4964,7 +4964,7 @@
     <defs>
         <style type="text/css">
             @import                                         url('https://fonts.googleapis.com/css?family=Oswald|Roboto');
-            svg                                             {-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; font-smoothing: antialiased;}
+            svg                                             {-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; font-smoothing: antialiased; cursor:default;}
             *                                               {transition-duration:.4s;}
             polygon, rect                                   {fill:#eee;}
             polygon[1]                                      {text-transform:uppercase;}
